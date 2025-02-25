@@ -1,1 +1,1 @@
-# kotlin-pets-list
+# kotlin pets demo
